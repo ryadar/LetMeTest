@@ -6,3 +6,4 @@ Added few more lines
 4 ) it is added in feature branch two @second commit
 5) it is added in feature branch two @ third commit
 5 ) it is added in feature branch THREE @second commit
+6 ) it is added in feature branch THREE @third commit
